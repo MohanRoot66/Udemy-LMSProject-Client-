@@ -1,0 +1,7 @@
+.p {
+    margin: 0; /* Remove default margins */
+    padding: 5px 0; /* Add some padding for spacing */
+    font-size: 2pc; /* Adjust font size as needed */
+    /* color: #333; Set text color to your preference */
+    /* Add any other styles you want, such as font-family, font-weight, etc. */
+  }
